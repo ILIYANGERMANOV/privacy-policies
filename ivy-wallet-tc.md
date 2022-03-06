@@ -26,6 +26,14 @@ At some point, we may wish to update the app. The app is currently available on 
 
 Ivy Apps Ltd. strives to provide fully-working software but **Ivy Apps Ltd. does not carry legal responsibility for bugs, issues, or problems which may disrupt your experience, cause data loss, incorrect data being saved, or any other problem in the app.**
 
+**Liability for our Services**
+
+WHEN PERMITTED BY LAW, Ivy Apps Ltd., and Iliyan Germanov, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA, FINANCIAL LOSSES OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+
+TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF Ivy Apps Ltd., AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIMS UNDER THESE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE AMOUNT YOU PAID US TO USE THE SERVICES (OR, IF WE CHOOSE, TO SUPPLYING YOU THE SERVICES AGAIN).
+
+IN ALL CASES, Ivy Apps Ltd., AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
+
 **Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
